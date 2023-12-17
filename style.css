@@ -60,6 +60,14 @@ header {
     background-position: 75% 100%;
 }
 
+.blah1 {
+    color: red;
+}
+
 .start {
     background-position: 100% 100%;
+}
+
+.blah {
+    color: green;
 }
